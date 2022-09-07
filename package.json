@@ -1,0 +1,25 @@
+{
+  "name": "portifolio-felipe",
+  "version": "1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp fdm",
+    "gulp": "gulp fdm",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeDuranl/portifoliofdm.git"
+  },
+  "author": "Felipe Duran Maciel",
+  "license": "ISC",
+  "homepage": "",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-sass": "^4.1.0"
+  },
+  "dependencies": {}
+}
